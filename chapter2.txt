@@ -1,2 +1,4 @@
 this is chapter2: so many commitss
 change this line to test change editor
+i write this line to test the amend commit
+i write this line to test the amend commit

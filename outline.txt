@@ -2,3 +2,6 @@ this is first line
 change 1: this is the first change of outline
 change 2: this is the second change of outline
 change 3: this is the third change, and start to write chapter2
+i write this line to test the amend commit
+i write this line to test the amend commit
+i write this line to test the amend commit

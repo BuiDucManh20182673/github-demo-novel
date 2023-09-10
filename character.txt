@@ -5,3 +5,6 @@ gal-galdot: his wife
 i add this line to check gitkraken
 i add this line to check gitkraken
 i add this line to check gitkraken
+i write this line to test the amend commit
+i write this line to test the amend commit
+i write this line to test the amend commit

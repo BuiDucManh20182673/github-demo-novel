@@ -3,3 +3,5 @@ This is my first chapter, Manh was born as a genius
 Manh is now a web developer, on the way of mastering git
 this is the second change of chapter 1
 this is the end of chapter 1, and we next to chapter 2 immediately
+i write this line to test the amend commit
+i write this line to test the amend commit
